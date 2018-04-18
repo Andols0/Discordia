@@ -1,4 +1,4 @@
-Timestamp (s)          Id  Seq  Num     Delay
+Timestamp (s)          Id         Seq       Num           Delay
 0.445679786		1	1	1	-425.426296
 0.44806556		1	2	2	-407.811237
 0.449938783		1	3	3	-389.707742
